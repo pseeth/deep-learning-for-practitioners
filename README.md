@@ -1,4 +1,4 @@
-# Deep Learning For Practitioners
+# CS3497/497: Deep Learning For Practitioners @ NU
 
 ## Course communication
 
