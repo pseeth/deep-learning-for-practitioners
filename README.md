@@ -38,6 +38,17 @@ Finally, some of the work you do in this course might be paper-able. If that’s
 
 All further communication will be done via Slack! Welcome to the course, and thanks for signing up!
 
+## A note on grading
+
+I took this from Jason Wilson's course syllabus. I'll be following this policy as well.
+
+> I am not focused on grades this quarter.  First and foremost, I want everyone to be happy, healthy, and safe.  Second, I want you all to focus on learning what you want and what you can and not be stressed about grades.  Lastly, this is going to be a bumpy ride, full of hiccups and mistakes.  Let's just try to do the best we can.
+>
+> For undergraduate students, all Spring Quarter courses are Pass/No Pass.  Students will get a Pass if they try to participate in most course activities (i.e., discussions, presentations, group project).
+>
+> For graduate students, I am still mostly thinking of this as Pass/No Pass.  Similar to undergraduates, my expectation of graduate students is to try to participate in all activities.  Of course, as graduate students, I hope your contributions to be more substantial (i.e., higher quality and more in depth). 
+
+
 ## Materials
 
 ### Week one
