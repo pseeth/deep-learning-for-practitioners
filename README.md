@@ -10,9 +10,9 @@ I’ve decided the best way to do things is to have active Slack discussions + v
 
 We will have both synchronous as well as asynchronous components to this course. Synchronous components will take the form of weekly discussions at a designated time: **Wednesdays from 2-5PM CDT (Chicago time)**. You must be on time for the synchronous component! The asynchronous component will in the form of Slack discussions, offline group meetings that you set yourself, and office hours with me, by appointment.
 
-## Paper/code presentations
+## Paper/topic/code presentations
 
-A big component of this course is paper AND code presentations. We’ll be doing active paper discussions and deep dives into code every week. Each week, two groups (2 people per group) will be asked to present a paper + code-base each. What paper and what code-base you present is up to you, but I’ll provide a list of topics I think would be interesting. 
+A big component of this course is paper AND code presentations. We’ll be doing paper discussions and deep dives into code every week. Each week, two groups (2 people per group) will be asked to present a paper (or general topic, like transformers) + code-base each. What paper/topic and what code-base you present is up to you, but I’ll provide a list of topics I think would be interesting. 
 
 Each presentation will have three components: 
 
@@ -38,22 +38,20 @@ Finally, some of the work you do in this course might be paper-able. If that’s
 
 All further communication will be done via Slack! Welcome to the course, and thanks for signing up!
 
-Prem
-
 ## Materials
 
 ### Week one
 
-- https://arxiv.org/pdf/1508.04306.pdf
-- https://www.merl.com/publications/docs/TR2018-005.pdf
+- [Deep clustering](https://arxiv.org/pdf/1508.04306.pdf)
+- [Alternative objective functions for deep clustering](https://www.merl.com/publications/docs/TR2018-005.pdf)
 
 And here’s the codebase:
 
-- https://github.com/interactiveaudiolab/nussl/tree/refactor
-- https://github.com/interactiveaudiolab/nussl/blob/refactor/nussl/ml/train/loss.py#L66
+- [nussl](https://github.com/interactiveaudiolab/nussl/tree/refactor)
+- [loss function implementation](https://github.com/interactiveaudiolab/nussl/blob/refactor/nussl/ml/train/loss.py#L66)
 
 We’ll also read one additional paper and discuss it both this week and next week:
 
-- https://papers.nips.cc/paper/8787-a-step-toward-quantifying-independently-reproducible-machine-learning-research.pdf
+- [reproducibility of machine learning research](https://papers.nips.cc/paper/8787-a-step-toward-quantifying-independently-reproducible-machine-learning-research.pdf)
 
 I’ll also be handing out a “deep learning quickstart” assignment this week for everyone to do, on their own. This simple assignment will just get you into the groove of writing code, tests, and doing experiments on some simple models with MNIST, so you can train it on your laptop. I’ll send around the link very soon via Canvas.
