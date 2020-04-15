@@ -1,4 +1,4 @@
-# CS3497/497: Deep Learning For Practitioners @ NU
+# CS396/496: Deep Learning For Practitioners @ NU
 
 ## Course communication
 
@@ -66,3 +66,14 @@ We’ll also read one additional paper and discuss it both this week and next we
 - [reproducibility of machine learning research](https://papers.nips.cc/paper/8787-a-step-toward-quantifying-independently-reproducible-machine-learning-research.pdf)
 
 I’ll also be handing out a “deep learning quickstart” assignment this week for everyone to do, on their own. This simple assignment will just get you into the groove of writing code, tests, and doing experiments on some simple models with MNIST, so you can train it on your laptop. I’ll send around the link very soon via Canvas.
+
+### Week two
+
+- [gradient-based debugging](https://colab.research.google.com/drive/19OQ7Y4D959XxbrMA1rCIJJDAPhvxu3wv#scrollTo=mW5loG061-Sz)
+- [nussl project structure](https://github.com/nussl/models)
+- [nussl deep learning tests](https://github.com/nussl/nussl/blob/master/tests/ml/test_loss.py)
+- [test by overfitting](https://github.com/nussl/nussl/blob/master/tests/ml/test_overfit.py)
+- [have a debugging pipeline](https://github.com/nussl/models/blob/master/main.py#L56)
+- [don't have to roll your own training tools](https://github.com/pytorch/ignite)
+- [reproducibility of machine learning research](https://papers.nips.cc/paper/8787-a-step-toward-quantifying-independently-reproducible-machine-learning-research.pdf)
+
