@@ -77,3 +77,19 @@ I’ll also be handing out a “deep learning quickstart” assignment this week
 - [don't have to roll your own training tools](https://github.com/pytorch/ignite)
 - [reproducibility of machine learning research](https://papers.nips.cc/paper/8787-a-step-toward-quantifying-independently-reproducible-machine-learning-research.pdf)
 
+### Week three
+
+- [Deep Learning and Information Bottleneck Principle](https://arxiv.org/pdf/1503.02406.pdf)
+- [Estimating Information Flow in Deep Neural Networks](http://proceedings.mlr.press/v97/goldfeld19a/goldfeld19a.pdf): Includes experiments conducted by IBM researchers
+- [The HSIC Bottleneck: Deep Learning without Back-Propagation](https://arxiv.org/pdf/1908.01580.pdf): Another experiemnt using alternative methods
+
+Codebase (HSIC trainning with PyTorch)
+
+- [HSIC-bottleneck](https://github.com/choasma/HSIC-bottleneck/)
+
+Some supplementary materials:
+
+- [Lecture notes for information theory](http://homepage.ntu.edu.tw/~ihwang/Teaching/Fa16/IT.html): Related notes: Lec. 1, 4 
+- [Information theory and machine learning](https://www.cs.cmu.edu/~aarti/Class/10704_Spring15/): Related notes: Lec. 16
+- [Measuring Statistical Dependence with Hilbert-Schmidt Norms](http://www.gatsby.ucl.ac.uk/~gretton/papers/GreBouSmoSch05.pdf): More on HSIC related math
+
