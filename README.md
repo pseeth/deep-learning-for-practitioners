@@ -93,3 +93,18 @@ Some supplementary materials:
 - [Information theory and machine learning](https://www.cs.cmu.edu/~aarti/Class/10704_Spring15/): Related notes: Lec. 16
 - [Measuring Statistical Dependence with Hilbert-Schmidt Norms](http://www.gatsby.ucl.ac.uk/~gretton/papers/GreBouSmoSch05.pdf): More on HSIC related math
 
+### Week four
+
+#### Poincaré Embeddings for Learning Hierarchical Representations (KJ and Zane)
+
+- [Paper](https://arxiv.org/pdf/1705.08039.pdf)
+
+- [Codebase](https://github.com/facebookresearch/poincare-embeddings)
+
+- [Neural Network Embeddings (background information)](https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526)
+
+- [What is Hyperbolic Geometry? (background information)](http://www.math.tifr.res.in/~mahan/rnl.pdf)
+
+- [Supplemental presentation by one of the authors of the paper](https://cds.cern.ch/record/2306315)
+
+
