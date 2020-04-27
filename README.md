@@ -107,4 +107,14 @@ Some supplementary materials:
 
 - [Supplemental presentation by one of the authors of the paper](https://cds.cern.ch/record/2306315)
 
+#### Feature-wise Transformations: A simple and surprisingly effective family of conditioning mechanisms (Ari)
+- [Interactive paper](https://distill.pub/2018/feature-wise-transformations)
+- [Code for FiLM, the main focus of the paper](https://github.com/ethanjperez/film/blob/master/vr/models/filmed_net.py#L209)
+##### Supplementary materials
+ - [The original FiLM (2017) paper](https://arxiv.org/pdf/1709.07871.pdf), if you want a more technical explanation 
+ - [Further description of feature-wise conditioning](https://towardsdatascience.com/conditional-love-the-rise-of-renormalization-techniques-for-neural-network-conditioning-14350cb10a34) with more context on its relationship to batch normalization and other DL techniques
+ - Fun thing! [Play around with GauGAN](https://www.nvidia.com/en-us/research/ai-playground/) (scroll down a bit), which uses feature-wise conditioning, to get a better feel for the power of conditioning :sparkles:
+    - Concise description of GauGAN implementation [here](https://nvlabs.github.io/SPADE/)
+
+
 
