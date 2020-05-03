@@ -117,6 +117,19 @@ Some supplementary materials:
    - I'd highly recommend this resource, especially if some parts of the presentation were unclear!
  - Fun thing! [Play around with GauGAN](https://www.nvidia.com/en-us/research/ai-playground/) (scroll down a bit), which uses feature-wise conditioning, to get a better feel for the power of conditioning :sparkles:
     - Concise description of GauGAN implementation [here](https://nvlabs.github.io/SPADE/)
-
+    
+ ### Week five
+ 
+ #### StyleGAN and StyleGAN2 (David, Joshua, and Thomas)
+ StyleGAN:
+ - [Paper] (https://arxiv.org/pdf/1406.2661.pdf)
+ - [Codebase] (https://github.com/NVlabs/stylegan)
+ - [Supplemental video] (https://youtu.be/kSLJriaOumA)
+ 
+ StyleGAN2:
+ - [Paper] (https://arxiv.org/pdf/1912.04958.pdf)
+ - [Codebase] (https://github.com/NVlabs/stylegan2)
+ - [Supplemental video] (https://youtu.be/c-NJtV9Jvp0)
+ - [15 minutes of face interpolations w/ StyleGAN2] (https://www.youtube.com/watch?v=6E1_dgYlifc)
 
 
