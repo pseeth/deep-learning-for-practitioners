@@ -122,14 +122,14 @@ Some supplementary materials:
  
  #### StyleGAN and StyleGAN2 (David, Joshua, and Thomas)
  StyleGAN:
- - [Paper] (https://arxiv.org/pdf/1406.2661.pdf)
- - [Codebase] (https://github.com/NVlabs/stylegan)
- - [Supplemental video] (https://youtu.be/kSLJriaOumA)
+ - [Paper](https://arxiv.org/pdf/1406.2661.pdf)
+ - [Codebase](https://github.com/NVlabs/stylegan)
+ - [Supplemental video](https://youtu.be/kSLJriaOumA)
  
  StyleGAN2:
- - [Paper] (https://arxiv.org/pdf/1912.04958.pdf)
- - [Codebase] (https://github.com/NVlabs/stylegan2)
- - [Supplemental video] (https://youtu.be/c-NJtV9Jvp0)
- - [15 minutes of face interpolations w/ StyleGAN2] (https://www.youtube.com/watch?v=6E1_dgYlifc)
+ - [Paper](https://arxiv.org/pdf/1912.04958.pdf)
+ - [Codebase](https://github.com/NVlabs/stylegan2)
+ - [Supplemental video](https://youtu.be/c-NJtV9Jvp0)
+ - [15 minutes of face interpolations w/ StyleGAN2](https://www.youtube.com/watch?v=6E1_dgYlifc)
 
 
