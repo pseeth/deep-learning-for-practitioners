@@ -143,4 +143,8 @@ Some supplementary materials:
   * [Overview Video](https://youtu.be/ZOabsYbmBRM)
 * [PyTorch source code for Batch Norm](https://pytorch.org/docs/stable/_modules/torch/nn/modules/batchnorm.html#BatchNorm2d)
 
+## Sponsors
 
+Thanks so much to PaperSpace for supporting this course with GPU credits. Try PaperSpace here: https://www.paperspace.com/.
+
+<img src="PoweredBy.png" alt="Thanks PaperSpace" width="400"/>
