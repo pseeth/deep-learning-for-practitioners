@@ -145,6 +145,6 @@ Some supplementary materials:
 
 ## Sponsors
 
-Thanks so much to PaperSpace for supporting this course with GPU credits. Try PaperSpace here: https://www.paperspace.com/.
+Thanks so much to PaperSpace for supporting this course with GPU credits. Try PaperSpace [here](https://www.paperspace.com/).
 
 <img src="PoweredBy.png" alt="Thanks PaperSpace" width="400"/>
