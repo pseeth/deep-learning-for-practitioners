@@ -121,7 +121,7 @@ Some supplementary materials:
 
 ### Week five
  
- #### StyleGAN and StyleGAN2 (David, Joshua, and Thomas)
+#### StyleGAN and StyleGAN2 (David, Joshua, and Thomas)
  StyleGAN:
  - [Paper](https://arxiv.org/pdf/1406.2661.pdf)
  - [Codebase](https://github.com/NVlabs/stylegan)
