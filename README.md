@@ -143,6 +143,23 @@ Some supplementary materials:
   * [Overview Video](https://youtu.be/ZOabsYbmBRM)
 * [PyTorch source code for Batch Norm](https://pytorch.org/docs/stable/_modules/torch/nn/modules/batchnorm.html#BatchNorm2d)
 
+
+
+### Week Six
+
+### Universal Language Model Fine Tuning (ULMFiT)
+* [Original Paper](https://arxiv.org/pdf/1801.06146.pdf)
+* [Link to presentation](https://docs.google.com/presentation/d/15FymkSvt4srHr4DKywgl6ywTgBxy2a9_RK2P-rjTlQM/edit?usp=sharing)
+* [Code from our presentation](https://github.com/jackbandy/deep_learning_ulmfit)
+
+* [FastAI/ULMFiT Support Forum](https://forums.fast.ai/c/part2-v2/)
+* [ULMFiT Video tutorial](https://www.youtube.com/watch?v=vnOpEwmtFJ8&feature=youtu.be&t=4511)
+ * [Notebooks used in tutorial](https://github.com/fastai/course-v3/tree/master/nbs/dl2)
+* [More Relevant FastAI notebooks](https://github.com/fastai/fastbook)
+* [OpenAI's response paper](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
+ * [Colab notebook](https://colab.research.google.com/github/secsilm/awsome-colabs/blob/master/nlp/classification/TransferLearningNLP.ipynb)
+
+
 ## Sponsors
 
 Thanks so much to PaperSpace for supporting this course with GPU credits. Try PaperSpace [here](https://www.paperspace.com/).
