@@ -147,6 +147,15 @@ Some supplementary materials:
 
 ### Week Six
 
+#### AutoGAN
+* [Paper: AutoGAN](https://arxiv.org/abs/1908.03835)
+* [Code](https://github.com/TAMU-VITA/AutoGAN)
+* [Presentation](https://drive.google.com/file/d/1bD2eyPmuI7zVdjwdbBl96-sDv0FIYTbi/view?usp=sharing)  
+* Supplement Material
+  * [Progressive Growing of GANs](https://arxiv.org/pdf/1710.10196.pdf)
+  * [Neural Architecture Search with Reinforcement Learning](https://arxiv.org/abs/1611.01578)
+  * [Progressive NAS](https://arxiv.org/pdf/1712.00559.pdf)
+  
 ### Universal Language Model Fine Tuning (ULMFiT)
 * [Original Paper](https://arxiv.org/pdf/1801.06146.pdf)
 * [Link to presentation](https://docs.google.com/presentation/d/15FymkSvt4srHr4DKywgl6ywTgBxy2a9_RK2P-rjTlQM/edit?usp=sharing)
