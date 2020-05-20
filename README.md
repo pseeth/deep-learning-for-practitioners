@@ -181,6 +181,17 @@ Some supplementary materials:
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf)
 * [Explanatory video by the author of MAML on the next generation of Robot Learning](https://www.youtube.com/watch?time_continue=711&v=tcFLwgqO7G0&feature=emb_logo)
 
+#### Multivariate LSTM-FCNs for Time Series Classification
+* [Link to paper](https://arxiv.org/pdf/1801.04503.pdf)
+* [Link to codebase](https://github.com/titu1994/MLSTM-FCN)
+
+##### Additional Papers
+* [LSTM Fully Convolutional Networks for Time Series Classification](https://arxiv.org/abs/1709.05206)
+* [Insights into LSTM Fully Convolutional Networks for Time Series Classification](https://arxiv.org/pdf/1902.10756.pdf)
+* [Time Series Classification from Scratch with Deep Neural Networks: A Strong Baseline](https://arxiv.org/pdf/1611.06455.pdf)
+* [Deep learning for time series classification: a review](https://arxiv.org/pdf/1809.04356.pdf)
+* [Time-Series Classification with COTE: The Collective of Transformation-Based Ensembles](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7069254)
+
 
 ## Sponsors
 
