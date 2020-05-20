@@ -173,6 +173,7 @@ Some supplementary materials:
 #### Learning to Learn How to Learn: Self-Adaptive Visual Navigation using Meta-Learning
 * [Link to paper](https://arxiv.org/pdf/1812.00971.pdf)
 * [Link to codebase](https://github.com/allenai/savn)
+* [Presentation](https://docs.google.com/presentation/d/1PLIpbG2N854rPWIhyKf9HmusqsGChtfmPXJrEbrzRhg/edit?usp=sharing)
 
 ##### Supplement materials:
 * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
