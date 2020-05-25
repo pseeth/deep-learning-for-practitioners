@@ -193,6 +193,19 @@ Some supplementary materials:
 * [Deep learning for time series classification: a review](https://arxiv.org/pdf/1809.04356.pdf)
 * [Time-Series Classification with COTE: The Collective of Transformation-Based Ensembles](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7069254)
 
+### Week Eight
+
+#### Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+* [Link to paper](https://junyanz.github.io/CycleGAN/)
+* [Link to codebase](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+  
+##### Supplement materials:
+* [Image-to-Image Translation with Conditional Adversarial Nets](https://phillipi.github.io/pix2pix/)
+* [Unsupervised Image-to-Image Translation Networks](https://arxiv.org/abs/1703.00848)
+* [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
+* [Perceptual losses for real-time style transfer and super-resolution](https://arxiv.org/abs/1603.08155)
+
+
 
 ## Sponsors
 
