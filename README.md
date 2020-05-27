@@ -205,6 +205,17 @@ Some supplementary materials:
 * [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 * [Perceptual losses for real-time style transfer and super-resolution](https://arxiv.org/abs/1603.08155)
 
+#### Waveglow
+* [Link to paper](https://arxiv.org/abs/1811.00002)
+* [Link to codebase](https://github.com/NVIDIA/waveglow)
+* [Presentation Slide (draft) ](https://github.com/asadayuki/waveglow/blob/master/doc/Waveglow_presentation.pdf)
+* [Code Analysis](https://github.com/asadayuki/waveglow/blob/master/doc/CodeAnalysis.pdf)
+  
+##### Supplement materials:
+* [Flow-based Deep Generative Models](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)
+* [WaveNet: A generative model for raw audio](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
+* [Normalizing Flows Tutorial, Part 1: Distributions and Determinants](https://blog.evjang.com/2018/01/nf1.html)
+* [Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257)
 
 
 ## Sponsors
