@@ -1,0 +1,39 @@
+(Q question) (A answer)
+
+1. Q: Would this(cycleGAN) also be considered a kind of style transfer?
+A: It is an Image-to-Image Translation. where the goal is to learn the mapping between an input image and an output image using a training set of aligned image pairs. It can achieve a similar effect as style transfer.
+
+2. Face2Ramen sounds like a great app.
+
+3. Q: I want to know what ramen captures my face?
+A: mind blown on the monet comment haha
+
+4. Cycle consistency is the most significant part in Cycle GAN.
+
+5. Two losses: adversarial loss and cycle consistency loss.
+
+6. Two cycle consistency loss: forward loss and backward loss.
+
+7. The network has three stride-2 convolutions, several residual blocks, and two fractionally strided convolutions with strde1/2.
+
+8. Q: So is that the main point of skip connections? to reduce computation overhead?
+A: In this paper, it may be one reason. Another motivation for skipping over layers is to avoid the problem of vanishing gradients, by reusing activations from a previous layer until the adjacent layer learns its weights. It can provide information of previous layers, it also can reduce the FLOPS,  and help improve accuracy.  For example, pass through the entire thing, set all skip connections=1, and others=0.
+FLOP = floating point operations
+
+9. 70*70 patchGAN discriminator, the 70*70 refers to the receptive field.
+
+10. Questions about the result.
+A: Apple to orange, the background becomes grey. It’s unreasonable. Cat to dog, looks weird and the same problem exists in progressive gan, hard to learn this kind of transfer.
+Video transfer is awkward, it seems to generate a totally new image, each frame has a different background color.
+
+11. Q: Did you have to do a manual seed?
+Yeah, do a manual seed to make the test result can be checked later.
+
+12. Certain initial matrices make it get work. 
+
+13. Crop, shift, rotation, make change to the data to see whether the net can work.
+
+14. Q: What application can cyclegan be used?
+A: Audio and Video style transfer.
+Adobe could be interested if you get to provide transformations in a natural way. They tried to do conversational stuff like: “remove the dog from the photo.”
+Virtual reality may be a good direction for many kinds of GANs to generate specific styles of video.
