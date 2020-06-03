@@ -217,6 +217,17 @@ Some supplementary materials:
 * [Normalizing Flows Tutorial, Part 1: Distributions and Determinants](https://blog.evjang.com/2018/01/nf1.html)
 * [Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257)
 
+### Week Nine
+
+#### Using Reinforcement Learning in the Algorithmic Trading Problem
+
+* [Link to paper](https://arxiv.org/pdf/2002.11523v1.pdf)
+* [Link to codebase](https://github.com/evgps/a3c_trading)
+* [Presentation](https://docs.google.com/presentation/d/1jDrKULFUqyjm-2Uc4uMi0RBR_BGyHOpDNB0sGgalD2k/edit?userstoinvite=warrentaylor2020%40u.northwestern.edu&ts=5ed0ffa4#slide=id.g8630c6cec4_0_126)
+
+##### Supplement materials:
+* [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
+
 
 ## Sponsors
 
