@@ -219,6 +219,20 @@ Some supplementary materials:
 
 ### Week Nine
 
+#### Human-level control through deep reinforcement learning
+* [Link to paper](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
+* [Link to codebase](https://github.com/tjwhitaker/human-level-control-through-deep-reinforcement-learning)
+* [Link to codebase](https://gist.github.com/BrandonLMorris/dc75086b844d65c51ab92b956494ecbd)
+* [Link to codebase](https://github.com/ravishchawla/Reinforcement-Learning-NanoDegree/tree/master/Project%201%20-%20Navigation)
+* [Presentation Slides ](https://github.com/pseeth/deep-learning-for-practitioners/blob/master/Human-level_control_through_deep_reinforcement_learning/presentation.pdf)
+
+##### Supplement papers:
+
+* [Additional Papers](http://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf)
+* [Additional Papers](https://www.cs.utexas.edu/~dana/Reward.pdf)
+* [Additional Papers](https://arxiv.org/pdf/1611.02167.pdf)
+* [Additional Papers](https://arxiv.org/pdf/1511.06581.pdf)
+
 #### Using Reinforcement Learning in the Algorithmic Trading Problem
 
 * [Link to paper](https://arxiv.org/pdf/2002.11523v1.pdf)
